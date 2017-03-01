@@ -1,0 +1,6 @@
+.navbar-nav > li > a[href] {
+	color:white;
+}
+.navbar-inverse .navbar-brand {
+	color:#40826D;
+}
